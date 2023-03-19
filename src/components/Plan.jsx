@@ -16,8 +16,8 @@ const Plan = () => {
         <p className='text-2xl py-6'>Lorem ipsum dolor sit amet consectetur adipisicing .</p>
         <p className='pb-6'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam, architecto repudiandae quibusdam quas eaque iure vitae doloremque earum voluptatem ratione! Magni perspiciatis sequi error excepturi, nobis sed ipsa totam laudantium.</p>
     <div>
-        <button className='border-black mr-4 hover:shadow-xl'>Pelajari Lebih Lanjut</button>
-        <button className='bg-black text-white border-black hover:shadow-xl'>Pesan Tempat Tujuanmu</button>
+        <button className='border-black mr-4 hover:shadow-xl m-2'>Pelajari Lebih Lanjut</button>
+        <button className='bg-black text-white border-black m-2 hover:shadow-xl'>Pesan Tempat Tujuanmu</button>
     </div>
     </div>
     </div>
