@@ -12,12 +12,12 @@ const Plan = () => {
     </div>
 
     <div className='flex flex-col h-full justify-center'>
-        <h3 className='text-5xl md:text-6xl font-bold'>Plan Your Next trip</h3>
+        <h3 className='text-5xl md:text-6xl font-bold'>Ayo, Rencanakan Perjalanan Anda Selanjutnya</h3>
         <p className='text-2xl py-6'>Lorem ipsum dolor sit amet consectetur adipisicing .</p>
         <p className='pb-6'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam, architecto repudiandae quibusdam quas eaque iure vitae doloremque earum voluptatem ratione! Magni perspiciatis sequi error excepturi, nobis sed ipsa totam laudantium.</p>
     <div>
-        <button className='border-black mr-4 hover:shadow-xl'>Learn More</button>
-        <button className='bg-black text-white border-black hover:shadow-xl'>Book Yout Trip</button>
+        <button className='border-black mr-4 hover:shadow-xl'>Pelajari Lebih Lanjut</button>
+        <button className='bg-black text-white border-black hover:shadow-xl'>Pesan Tempat Tujuanmu</button>
     </div>
     </div>
     </div>
